@@ -24,6 +24,9 @@ The CRC check that uses branching instead of a table-lookup. This is the same ve
 - crc32-symarr.c 
 The CRC check that uses table lookup and was taken from the EternalPass DARPA CGC challenge from the cb-multios repository.
 
+- crc64.c
+The 64bit CRC check using table lookup taken from liblzma.
+
 - MyCRC32.java is the Java translation of the fuzzification CRC32 implementation.
 
 - runJRanger.jpf
