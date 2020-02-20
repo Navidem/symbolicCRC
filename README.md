@@ -3,7 +3,7 @@
 Symbolically executing CRC checks using FuzzBALL, angr, and Java Ranger.
 Please refer to the paper "It Doesn’t Have to Be So Hard: Efficient Symbolic Reasoning for CRCs" published at BAR2020 for more details.
 
-The symbolic execution engines are avaialble at:
+The symbolic execution engines are available at:
 
 - FuzzBALL:
 https://github.com/bitblaze-fuzzball/fuzzball
